@@ -5,7 +5,7 @@ This is a Java program which can calculate the estimated lifetime of a main sequ
 It uses this equation/relationship: (Lifetime of the Sun) * (Mass of Star / Mass of Sun)^2.5, which I learned of in my ASTR1020 (Stellar and Galactic Astronomy) class. 
 
 - The mass of the sun is about 2 * 10^30 kg.
-- The estimated lifetime of the sun is about 1 * 10^10 years.
+- The estimated lifetime of the sun is about 1 * 10^10 years (10 billion years).
 
 You can find the solar masses of a variety of Main-Sequence stars on Wikipedia to test (https://en.wikipedia.org/wiki/Category:Main-sequence_stars).
 
