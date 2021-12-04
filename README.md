@@ -1,5 +1,7 @@
 # Star Lifetime Estimator
 
+Made in Fall 2021 by Ezinna Ononuju
+
 This is a Java program which can calculate the estimated lifetime of a main sequence star given its mass in solar masses (proportion of that star's mass to the sun's mass).
 
 It uses this equation/relationship: (Lifetime of the Sun) * (Mass of Star / Mass of Sun)^2.5, which I learned of in my ASTR1020 (Stellar and Galactic Astronomy) class. 
