@@ -7,7 +7,7 @@ It uses this equation/relationship: (Lifetime of the Sun) * (Mass of Star / Mass
 - The mass of the sun is about 2 * 10^30 kg.
 - The estimated lifetime of the sun is about 1 * 10^10 years.
 
-You can find the solar masses of a variety of Main-Sequence stars on Wikipedia (https://en.wikipedia.org/wiki/Category:Main-sequence_stars).
+You can find the solar masses of a variety of Main-Sequence stars on Wikipedia to test (https://en.wikipedia.org/wiki/Category:Main-sequence_stars).
 
 Fun fact: This equation estimates the lifetime of the star on the Main Sequence (HR Diagram Explanation: https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram#Interpretation). It doesn't neccesarily account for it's lifetime as a red giant or supergiant. However, because the amount of time the star spends on the main sequence is orders of magnitude longer than it's later life stages, this equation is a perfectly fine approximation for the purposes of Astronomy research. As my teacher said, the scales of concepts and objects studied in Astronomy are so massive that it's sometimes okay to be off by a little bit.
 
