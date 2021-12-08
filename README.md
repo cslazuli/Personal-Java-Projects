@@ -15,4 +15,4 @@ Fun fact: This equation estimates the lifetime of the star on the Main Sequence 
 
 Another fun fact: Stars below about 0.5 solar masses don't really follow this equation. That's because they're too small to form main sequence stars: They're your brown and red dwarf stars which fuse their hydrogen into helium at a much slower rate (as in so slow that they will outlive all other stars). This is why in the program, the main sequence star must be more than 0.5 solar masses.
 
-Last fun fact: All stars on the main sequence are technically "dwarf stars". That means the sun is a dwarf star if you want to be semantic.
+Last fun fact: All stars on the main sequence are technically "dwarf stars". That means the sun is a dwarf star (if you want to be semantic).
